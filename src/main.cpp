@@ -12,7 +12,7 @@ CRGB monPixel;
 // Les messages sortants sont écrits directement sur la sortie et ne nécessitent pas de réservation d'octets supplémentaires.
 MicroOscSlip<128> monOsc(&Serial);
 
-//important 1234
+//enfin
 
 void setup() {
 
